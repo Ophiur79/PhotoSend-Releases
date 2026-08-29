@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.1",
-  "apkUrl": "https://github.com/Ophiur79/PhotoSend-Releases/releases/download/v1.2.1/PhotoSend-1.2.1.apk",
-  "sha256": "cc9c57ffa997f8acf9f3e84cba3a9ff9cb93677aafc928cbf601e405d9d51eb8",
-  "notes": "Updater end-to-end validation release."
+  "versionCode": 5,
+  "versionName": "1.2.5",
+  "apkUrl": "https://github.com/Ophiur79/PhotoSend-Releases/releases/download/v1.2.5/PhotoSend-1.2.5.apk",
+  "sha256": "abfe0920e50de12cf404b5602f0ae36fd7666b228f0ff9b1ad771decf71b3393",
+  "notes": "New Review mode, improved portrait and landscape camera handling, redesigned controls, built-in update support, and various UI and stability improvements."
 }
