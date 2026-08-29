@@ -1,3 +1,7 @@
-PhotoSend-Releases
-├─ README.md
-└─ latest.json
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/Ophiur79/PhotoSend-Releases/releases/download/v1.1.0/PhotoSend-1.1.0.apk",
+  "sha256": "",
+  "notes": "Previous stable release of PhotoSend."
+}
