@@ -2,5 +2,6 @@
   "versionName": "1.3.0",
   "versionCode": 7,
   "apkUrl": "https://github.com/Ophiur79/PhotoSend-Releases/releases/download/v1.3.0/PhotoSend-1.3.0.apk",
-  "sha256": "2e984d4521e333648b6d4247b6072a4dd8283ff1302a86a4c973c53216cc8f1a"
+  "sha256": "2e984d4521e333648b6d4247b6072a4dd8283ff1302a86a4c973c53216cc8f1a",
+  "notes": "Dual connection profiles, improved server switching and per-profile routing, dedicated Settings, Device Name support, profile-specific counters, flexible PHOTO/DOCUMENT destination modes, Wi-Fi Use Current assistance, UI refinements, stability fixes and internal cleanup."
 }
